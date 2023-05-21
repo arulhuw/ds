@@ -1,4 +1,13 @@
 # DS1_2305 (Data Skills 1)
+- [DS1\_2305 (Data Skills 1)](#ds1_2305-data-skills-1)
+  - [Overview](#overview)
+  - [Assessment](#assessment)
+  - [Coursebook](#coursebook)
+  - [Specific Goals](#specific-goals)
+  - [Questions](#questions)
+  - [1. What is data ?](#1-what-is-data-)
+  - [Quantiative data](#quantiative-data)
+  - [Qualitative data](#qualitative-data)
 
 
 ## Overview
