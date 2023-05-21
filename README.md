@@ -1,16 +1,5 @@
 # DS1_2305 (Data Skills 1)
-- [DS1\_2305 (Data Skills 1)](#ds1_2305-data-skills-1)
-  - [Overview](#overview)
-  - [Assessment](#assessment)
-  - [Coursebook](#coursebook)
-  - [Specific Goals](#specific-goals)
-  - [Questions](#questions)
-  - [1. What is data ?](#1-what-is-data-)
-  - [Quantiative data](#quantiative-data)
-  - [Qualitative data](#qualitative-data)
 
-
-## Overview
 | week      |Class      |
 |-----------|-----------|
 | Week 2: 	|Maths refresher 					
@@ -39,27 +28,3 @@
 - Interpreting data 
 - Critical thinking 
 ---
-
-
-## Questions 
-## 1. What is data ?
-```mermaid
-flowchart 
-id1[(Data)] --> B(Quantitative <br/>)
-id1[(Data)] --> C(Qualitative)
-```
-## Quantiative data
-- Data used to quantify a problem
-- Can be counted or compared on numeric scale
-- Usually gathered using instruments 
-- Rating scale used for questionnaires
-- Thermometre used to collect  Weather data
-- Statistical software 
-  SPSS used for quantitative data analysis 
-
-## Qualitative data
-- Collected using questionnaires interviews or observation 
-- Describes qualities or characterstics
-- Data in form of descriptive words 
-- Dificult to precisely measure and analyze
-- Freuently appers in narrative form
