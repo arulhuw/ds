@@ -23,7 +23,7 @@
 ## Coursebook
 - Business Math Brief
 
-## Specific Goals
+## Module Aims (Specific Goals)
 - Numeracy skills
 - Interpreting data 
 - Critical thinking 

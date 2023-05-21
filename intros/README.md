@@ -3,6 +3,7 @@
 - [Qualitative data](#qualitative-data)
 - [Primary v. secondary data](#primary-v-secondary-data)
 - [Data treasure hunt](#data-treasure-hunt)
+- [Critical thinking](#critical-thinking)
 
 ## 1. What is data ?
 ```mermaid
@@ -61,4 +62,11 @@ id1[(Data)] --> C(Qualitative)
    -  Tokyo is the most populous city in the world with 40 million (37,274,002) residents.
 6. What is the average house price in London? 
    - The average house price in London is Half a million (£523.66) 
+
+## Critical thinking
+
+- Thinking about and presenting ideas in a logical way. 
+- Analysing and evaluating in order to reach an evidence-led judgement. 
+- Being ‘objective’, meaning we put aside our own views and look at an issue from different points of view in order to understand it better.
+- Justifying the decisions you reach. 
 
