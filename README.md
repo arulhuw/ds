@@ -46,17 +46,20 @@
 ```mermaid
 flowchart 
 id1[(Data)] --> B(Quantitative <br/>)
-id1[(Data)] --> C(qualitative)
+id1[(Data)] --> C(Qualitative)
 ```
 ## Quantiative data
 - Data used to quantify a problem
 - Can be counted or compared on numeric scale
-- usually gathered using instruments 
-  1. Rating scale
-     - questionnaire
-  2. Thermometre
-     - Harvest Weather data
-  3. Statistical software 
-     - SPSS used for quantitative data analysis 
+- Usually gathered using instruments 
+- Rating scale used for questionnaires
+- Thermometre used to collect  Weather data
+- Statistical software 
+  SPSS used for quantitative data analysis 
 
 ## Qualitative data
+- Collected using questionnaires interviews or observation 
+- Describes qualities or characterstics
+- Data in form of descriptive words 
+- Dificult to precisely measure and analyze
+- Freuently appers in narrative form
