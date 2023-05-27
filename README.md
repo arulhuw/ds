@@ -28,3 +28,33 @@
 - Interpreting data 
 - Critical thinking 
 ---
+
+
+## Calculation function
+
+```javascript
+> function Add(a,b){
+    return a + b
+    }
+    console.log(Add(2,2))
+4
+> function Minus(a,b){
+    return a - b
+    }
+    console.log
+    (Minus(4,2))
+2
+> function Multi(a,b){
+    return a * b
+    }
+    console.log(multi(4,2))
+8
+> function divide(a,b){
+    return a / b
+    }
+    console.log(divide(4,2))
+> function Sqr(a,b){
+    return a ** b
+}
+    console.log(Sqr(4,2))
+```
