@@ -6,6 +6,20 @@
 10% = 10 / 100 = 0.1
 
 
+## Formulas
+
+---
+|RATE 	|PORTION / BASE  x 100|
+|--|--|
+
+---
+|PORTION|BASE x RATE|
+|--|--|
+---
+|BASE|  PORTION / RATE|
+|--|--|
+
+---
 - Calculating percentage ‘rate’ 
     > **RATE = PORTION / BASE x 100**
 - Calculating ‘portion’ or ‘part’
@@ -13,8 +27,6 @@
 - Calculating ‘base’ or ‘total’ 
     > **BASE = PORTION / RATE**
     Remember the rate must be calculated using the decimal value
-
-
 ## Calculating the percentage ‘rate’  
 
 > **RATE = PORTION / BASE x 100**
@@ -46,7 +58,6 @@ Remember the rate must be calculated using the decimal value
 ### Find base or total ?
 - Poker tournament rules state that 10% of players who pay the entry fee will finish winning some money. If 877 players win money, how many paid the entry fee? 
     >**877 (portion) / 0.1 (rate) = 8,770 players paid the entrance fee**
-
 1. 48% of 12 is ____
     > find the portion. 
     > percentage rate (48%)
@@ -59,7 +70,7 @@ Remember the rate must be calculated using the decimal value
     > 28 / 0.32 = 87.5
 
 
-
+## Further practice
 
 3. Holly Hobbs purchased a magazine at Atlanta airport for \$2.99. The tax on the purchase was \$0.18. What was the tax rate at the airport? Round to the nearest percent. 
     > find the rate or percentage. 
@@ -67,4 +78,47 @@ Remember the rate must be calculated using the decimal value
     > portion (\$0.18)
     > 0.18 / 2.99 x 100 =  6%
 
+- Purchase price = $2.99
+- Tax amount = $0.18
+- Tax rate = tax amount / purchase price = 0.18 / 2.99 = 0.0602 = 6.02%
+- Round to the nearest percent = 6.0%
+
+
+
+## Expressing ‘part of whole’ using fractions
+
+
+### What are fractions? 
+> ##### decimals and percentages are ways of describing part of a whole. 
+
+### fractions. 
+
+- There are two parts to every fraction. 
+  1. numerator 
+  2. denominator 
+
+
+### Percentages to fractions
+
+- place the non-zero digit(s) after the decimal point
+- numerator (on top)
+- power of 10 as the denominator 
+- same number of zeros as decimal places. 
+
+
+
+### Decimals to fractions 
+
+- place the non-zero digit(s) after the decimal point
+- numerator (on top) 
+- power of 10 as the denominator
+- same number of zeros as there were decimal places. 
+
+
+
+			
+
+
+
+				 		  
 
