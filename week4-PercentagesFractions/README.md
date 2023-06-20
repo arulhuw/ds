@@ -120,18 +120,15 @@ Percent | Fraction
 - power of 10 as the denominator
 - same number of zeros as there were decimal places. 
 
-Decimal | Fraction
-------- | --------
-0.5    | 5/10 = 1/2
-0.25   | 25/100 = 1/4
-0.75   | 75/100 = 3/4
-0.125  | 125/1000 = 1/8
-
-Decimal | Fraction
-------- | --------
-0.3 | 3/10
-0.125 | 125/1000 = 5/40 = 1/8
-0.25 | 25/100 = 1/4
+Decimal | Fraction|Simplified
+------- | --------|----
+0.5    | 5/10 | 1/2
+0.25   | 25/100 | 1/4
+0.75   | 75/100 | 3/4
+0.125  | 125/1000 | 1/8
+0.3 | 3/10|
+0.125 | 125/1000 | 5/40 = 1/8
+0.25 | 25/100 |1/4
 
 
 
@@ -140,7 +137,6 @@ Decimal | Fraction
 |25/100 | 25/25 & 100/25  | 1/4|
 |-------|-----|--------|---|
 |20/80|20/20 & 80/20| 1/4
-
 
 
 ### Equivalent forms 
@@ -153,6 +149,21 @@ Fractions| Decimal |  Percentage|
 |3/10       | 0.3     |3%
 |6/10 or 3/5|0.6      |60%
 |5/10 or 1/2|1/10     |50%
+
+
+
+### Summary of common equivalent forms 
+
+|1/2|
+|1/4|
+|3/4|
+|1/3|
+
+
+
+
+
+
 
 
 - 13 people took the driving test 
