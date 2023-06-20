@@ -105,7 +105,13 @@ Remember the rate must be calculated using the decimal value
 - power of 10 as the denominator 
 - same number of zeros as decimal places. 
 
-
+Percent | Fraction
+------- | --------
+10%     | 1/10
+25%     | 1/4
+50%     | 1/2
+75%     | 3/4
+100%    | 1
 
 ### Decimals to fractions 
 
@@ -114,11 +120,46 @@ Remember the rate must be calculated using the decimal value
 - power of 10 as the denominator
 - same number of zeros as there were decimal places. 
 
+Decimal | Fraction
+------- | --------
+0.5    | 5/10 = 1/2
+0.25   | 25/100 = 1/4
+0.75   | 75/100 = 3/4
+0.125  | 125/1000 = 1/8
+
+Decimal | Fraction
+------- | --------
+0.3 | 3/10
+0.125 | 125/1000 = 5/40 = 1/8
+0.25 | 25/100 = 1/4
 
 
-			
+
+### Simplifying fractions
+
+|25/100 | 25/25 & 100/25  | 1/4|
+|-------|-----|--------|---|
+|20/80|20/20 & 80/20| 1/4
 
 
 
-				 		  
+### Equivalent forms 
 
+- decimals, percentages and fractions
+
+Fractions| Decimal |  Percentage|
+------------|---------|-------------
+| 7/20      |0.35     |35%
+|3/10       | 0.3     |3%
+|6/10 or 3/5|0.6      |60%
+|5/10 or 1/2|1/10     |50%
+
+
+- 13 people took the driving test 
+- 9 passed and  4 people did not pass. 
+- What fractions didn't pass
+
+1. Total people = 13
+2. Passed people = 9
+3. Failed people = 13 - 9 = 4
+4. Fraction failed = 4/13
